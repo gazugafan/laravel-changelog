@@ -1,5 +1,5 @@
-# Laravel Changelog
-### Database record changelogs for Laravel 5
+# Laravel Model Changelogs
+### Database record changelogging for Laravel 5
 
 Automatically log who did what, when, and from where. Pairs super well with [laravel-temporal](https://github.com/gazugafan/laravel-temporal)!
 
